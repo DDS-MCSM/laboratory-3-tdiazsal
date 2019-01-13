@@ -1,7 +1,7 @@
 ---
 title: "Answers Lab3"
-author: "You Name"
-date: "12/6/2018"
+author: "Antoni Diaz Salvador"
+date: "03/01/2019"
 output: html_document
 ---
 
@@ -18,7 +18,7 @@ This is an R Markdown document including the solutions to the laboratory 3 for t
 Using the functions implemented in the file `code.R`.
 
 ```{r file_load, error=FALSE}
-# source("./code.R")
+ source("./code.R")
 ```
 
 

@@ -7,7 +7,9 @@
 #******************************************************************************#
 
 ## Crawling y Scrapping
-
+library(httr)
+library(xml2)
+library(XML)
 
 ### 1.1 Obtención de la página web
 
